@@ -5,4 +5,4 @@ local에서 추가한 부분
 
 github에서 추가한 부분
 
-master branch에서 수정한 부분 (conflict)
+새로운 line으로 대체하겠습니다.
